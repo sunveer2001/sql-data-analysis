@@ -1,0 +1,1 @@
+Conducted a comprehensive analysis of company layoffs using SQL. Cleaned and standardized data, then analyzed trends and patterns. Employed advanced SQL techniques to combine data and perform calculations, resulting in valuable insights into layoff trends, company performance, and industry impacts.
